@@ -1,6 +1,6 @@
 {
-  "name": "Dudh Khata — Milk Sales Record",
-  "short_name": "Dudh Khata",
+  "name": "KATHIRAVAN — Milk Sales Record",
+  "short_name": "KATHIRAVAN",
   "description": "Offline milk shop sales, customer and payment tracker. All data stored on your device.",
   "start_url": "./index.html",
   "scope": "./",

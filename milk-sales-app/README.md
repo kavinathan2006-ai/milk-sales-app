@@ -1,4 +1,4 @@
-# Dudh Khata — Milk Sales Record App
+# KATHIRAVAN— Milk Sales Record App
 
 A lightweight milk shop management app. No backend, no database server — everything
 (customers, sales, payments) is saved directly in the browser's storage on your phone,

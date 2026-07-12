@@ -285,7 +285,7 @@
 
     if (customers.length === 0) {
       return `
-        ${emptyState("Welcome to Dudh Khata", "Add your first customer, then start recording daily milk sales.")}
+        ${emptyState("Welcome to KATHIRAVAN", "Add your first customer, then start recording daily milk sales.")}
         <button class="btn btn-primary btn-block" data-action="add-customer">${ICONS.plus} Add Customer</button>
       `;
     }
