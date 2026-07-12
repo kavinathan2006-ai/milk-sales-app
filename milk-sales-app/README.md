@@ -38,7 +38,7 @@ serve the files over `http(s)://` at least once. Pick whichever is easiest for y
 1. Create a free GitHub account and a new repository (e.g. `milk-sales-app`).
 2. Upload all the files in this folder (keep the `icons/` folder structure).
 3. In the repo, go to **Settings → Pages**, set source to the `main` branch, save.
-4. GitHub gives you a link like `https://yourname.github.io/milk-sales-app/`.
+4. GitHub gives you a link like `https://kavinathan2006-ai.github.io/milk-sales-app/`.
 5. Open that link on your Android phone in **Chrome**.
 6. Tap the **⋮** menu → **Add to Home screen** (or you'll see an automatic "Install app" prompt).
 7. The app icon now appears on your home screen and opens full-screen, offline.
